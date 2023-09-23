@@ -19,8 +19,6 @@ The code should have a good OOP design.
 1. Strategy Design Pattern
 2. Factory Design Pattern
 
-# Wrote the code following SOLID principles which could be easily extensible.
-
 # Implementations of cache storage policy:
 1. HashMap based
 2. HashMap + Doubly Linked List based
